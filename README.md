@@ -11,7 +11,7 @@ Twitter画像の追加と表示ができるサイトです。
 2,サイト右下の＋ボタンをクリック
 3,入力欄にコピーしたURLを貼り付けて追加する
 ## アップロードできる画像
-https://pbs.twimg.comから始まるTwitterの画像
+https://pbs.twimg.com から始まるTwitterの画像
 URLの最後に付くlargeとかsmall、900×900などの表示はそのままアップしても大丈夫です
 
 ## 作成方法
