@@ -1,6 +1,8 @@
 # favorite-illustrator
 お気に入りのTwitterの画像を一覧化して表示させるサイトのソースコードです
 
+※※まだ開発段階です！※※
+
 ## このソースコードについて
 このソースコードはTwitterの画像URLを追加していき一覧表示させるサイト「Favorite Illustrator」作成のためのものです。
 
